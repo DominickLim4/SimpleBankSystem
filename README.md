@@ -4,7 +4,9 @@
 # How it works?
 ##
 First run the Main file, the program will ask for your data.
+
 Name, Agency, Age.
+
 Agency you can type: Banco do Brasil or BB || Nubank or NU
 
 After that, you'll see a message asking if you want deposit money ( 1 ), withdraw your money ( 2 ) or see your data again ( 3 ).
